@@ -9,3 +9,5 @@ The Burrows–Wheeler data compression algorithm consists of three algorithmic c
 3.Huffman compression: given a text file in which certain characters appear much more frequently than others, compress it by encoding frequently occurring characters with short codewords and infrequently occurring characters with long codewords.
 
 As it is a loss-less compression, the compressed data can be expanded to get the original data again by performing the last three steps in reverse order.
+
+For more specifications of the problem: https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php
